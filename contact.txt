@@ -1,0 +1,4 @@
+def add_contact():
+    """Add a new contact to the file."""
+    name = input("Enter Name: ").strip()
+    
